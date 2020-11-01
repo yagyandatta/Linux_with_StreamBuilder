@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289534409794",
+    "firebase_url": "https://linuxappproject.firebaseio.com",
+    "project_id": "linuxappproject",
+    "storage_bucket": "linuxappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289534409794:android:8e3c2c6c1425bcc2ff81db",
+        "android_client_info": {
+          "package_name": "com.sonu.linux_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289534409794-4oovidj3vrgpf1bc2k340m2noor8l345.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANKmEL8RDV55E0vd1ux82-KdvEmmkYmOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289534409794-4oovidj3vrgpf1bc2k340m2noor8l345.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
